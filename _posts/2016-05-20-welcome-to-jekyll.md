@@ -3,24 +3,42 @@ layout: page
 title:  "欢迎大佬"
 subtitle: "感谢大佬的观摩"
 date:   2016-05-20 21:21:21 +0530
-categories: ["一般文章"]
+categories: ["笔记"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+#笔记整理
+>- 整理已记录下来的笔记
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- Git（工具）:
+    - 将本地代码推送到远程版本仓库（中转站）
+    - 分支管理（复制ip）
+    - 有本地版本库中的代码才能推送到远程版本库中
+- 命令行工具
+    - 解析命令→指定软件去做指定的事情
+    - 本地版本库的状态
+     - 暂存区：是否提交代码
+     - 暂存区显示为红色：存在没有提交的代码到暂存区
+     - 暂存区显示为绿色：已提交所有代码到暂存区
+    - 本地版本库显示为claen：已提交到本地版本库中
+    - 当想从本地版本库推送到远程版本库之前，本地版本库状态必须是claen
+    - git init  初始化本地版本库（初始化一次就不需要再次初始化，除非删除了.git文件夹）
+    - git status 查看本地版本库的状态
+    - git add . 选中当前文件夹中所有的内容
+    - git commit -m "备注"  提交到本地版本库
+    - git clone -b master 远程版本库的网址 文件夹 克隆远程版本库的分支
+    - git push 远程版本库的网址 master：master
+- url的组成
+    - 协议
+     - 是客户端和服务端之间的一种约定
+     - 客户端：发送请求的软件（浏览器）
+     - 服务端：接收请求的软件（wed sewer）
+     - 内容：发送，接收，处理请求方式
+    - 域名
+    - 端口
+    - 文件路径
+    - 参数
+- 映射关系：
+    - 是一对一的关系
+    - 可以在hosts文件中寻找域名和IP的映射关系
+    - 在DNS服务器中查找（DNS域名解析）
+    - windows系统可以在C:\Windows\System32\drivers\etc中找到hosts
+    - 如果要修改hosts文件的内容，需要管理员运行PowerShell，将hosts文件用记事本打开

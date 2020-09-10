@@ -9,15 +9,15 @@ subtitle: 一个年轻的精神小伙
 <br>
 
 ### 技能
-``` 乌鸦坐飞机 龙卷风摧毁停车场 黑虎掏心 ```  
+``` 可以使用多个编程软件 ```  
 
 ### 项目
-**个人博客** - 做一个个人博客 - 位置 <span style="float: right; ">时间跨度</span>  
+**个人博客** - 做一个个人博客 - 位置 <span style="float: right; ">时间跨度：2020.9.9-</span>  
  
 
 ### 教育
 
-私立华联学院 <span style="float: right; ">持续时间</span>  
+私立华联学院 <span style="float: right; ">持续时间：3年</span>  
 **计算机应用技术**  
 
 ### 工作经验

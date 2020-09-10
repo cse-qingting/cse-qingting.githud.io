@@ -3,7 +3,7 @@ layout: page
 title: "演示文章"
 subtitle: "仅仅演示"
 date:   2016-05-20 21:21:21 +0530
-categories: 垃圾文章
+categories: 无用的文章
 author: "Bart Simpson"
 meta: "Springfield"
 ---
