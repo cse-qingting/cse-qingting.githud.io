@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 博客
+subtitle: 随便走，随便看；慢慢走，慢慢看。
 ---
 
 <div>
