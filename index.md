@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: 欢迎大佬
+subtitle: 来到我的个人养生博客
 sitemap:
   priority: 0.9
 ---

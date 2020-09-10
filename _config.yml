@@ -1,8 +1,7 @@
 # Site settings
 title: qingting
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
-
+  这是蜻蜓的个人博客，欢迎大佬。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cseqingting.github.io" # the base hostname & protocol for your site
 
