@@ -22,7 +22,7 @@ subtitle: 随便走，随便看；慢慢走，慢慢看。
 <a href="{{ post.url | prepend: site.baseurl }}">
 <span class="post-teaser__title">{{ post.title }}</span>
 <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
-</ a>
+</a>
 </li>
 {% endfor %}
 </ul>
