@@ -5,9 +5,9 @@ subtitle: 随便走，随便看；慢慢走，慢慢看。
 ---
 
 <div>
-{% assign postsCategory = site.posts | group_by_exp:"post", "post.categories" %}
-{% for category in postsCategory %}
-<h4 class="post-teaser__month">
+{% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
+{% for category in postsCategory %}
+<h4 class="post-teaser__month">
 <strong>
 {% if category.name %} 
 - - - - -  {{ category.name }} - - - - - 
