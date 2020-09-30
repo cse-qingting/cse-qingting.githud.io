@@ -3,9 +3,9 @@
   body {
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
-    color: #66b385;
+    color: #82589a;
     background-color: #1b2148;
-    background-image: url(/assets/img/bh3.png);
+    background-image: url("/assets/img/bh3.png");
     }
 
   a {
@@ -171,7 +171,7 @@
 
 /* =Main Page *//*************************************************************/
   #about-img {
-    border-radius: 13%;
+    border-radius: 35%;
     max-width: 125px;
     margin: auto;
     margin-bottom: 50%;
