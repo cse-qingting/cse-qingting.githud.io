@@ -1,12 +1,13 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
-  body {
-    font-family: 'Quicksand', sans-serif;  
+  body { 
     font-size: 100%;
     color: #82589a;
     background-color: #1b2148;
     background-image: url("../img/bh3.png");
     background-repeat: no-repeat;
+    background-attachment:fixed;
+
     }
 
   a {
